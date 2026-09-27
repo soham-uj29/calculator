@@ -39,30 +39,5 @@ def get_oper_name(oper):
 
 print(f"the {get_oper_name(oper)} of {var1} and {var2} is {calculate(var1,var2,oper)}")
 
-
-
-# if oper == "1" :
-#     print(f"the sum of {var1} and {var2} is {add2num(var1,var2)}")
-# elif oper == "2":
-#     print(f"the diffrence between {var1} and {var2} is {sub2num(var1,var2)}")
-# elif oper == "3":
-#     print(f"the multiplication of {var1} and {var2} is {multi2num(var1,var2)}")
-# elif oper == "4":
-#     print(f"if {var1} divided by {var2}, the result is {divide2num(var1,var2)}")
-# else:
-#     print(f"invalid operation has been selected !")    
-
-# def add2num(a,b):   
-#     return a+b
-    
-# def sub2num(a,b):
-#     return a-b
-
-# def multi2num(a,b):
-#     return a*b
-
-# def divide2num(a,b):
-#     return a/b
-
     
  
