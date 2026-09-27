@@ -1,3 +1,4 @@
+#calculator project
 print("select operation from the given list \n 1.addition \n 2.substraction \n 3.multiplication \n 4.division \n 5. mean")
 oper = input("please enter number of the following operation to execute :")
 
